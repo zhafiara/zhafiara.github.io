@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+Motoin by Chiyoko Corporation
 
-Template Name: OnePage
-Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Zulfania Shofa - 0110220029
+Dea Amelia Putri - 0110220234
+Nurul Haya Farthinah - 0110220138
+Regita Asri Prihantari - 0110220254
+Zhafia Rabbani Amalia - 0110220219
